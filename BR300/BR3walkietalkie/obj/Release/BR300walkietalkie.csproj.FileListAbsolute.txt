@@ -1,0 +1,23 @@
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.csproj.ResolveComReference.cache
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.About.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Controls.DialogForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.MainBaseForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.BaseForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Loading.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.MainForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Models.AdvancedForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Models.BR3Channel.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Models.SideKeySetForm.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Ports.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.RollWait.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.csproj.GenerateResource.Cache
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300 walkietalkie.exe
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300 walkietalkie.pdb
+G:\.net projuct\BR300\BR300\BR3walkietalkie\bin\Release\BR300 walkietalkie.exe.manifest
+G:\.net projuct\BR300\BR300\BR3walkietalkie\bin\Release\BR300 walkietalkie.application
+G:\.net projuct\BR300\BR300\BR3walkietalkie\bin\Release\BR300 walkietalkie.exe
+G:\.net projuct\BR300\BR300\BR3walkietalkie\bin\Release\BR300 walkietalkie.pdb
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.Properties.Resources.resources
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300 walkietalkie.exe.manifest
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300 walkietalkie.application
+G:\.net projuct\BR300\BR300\BR3walkietalkie\obj\Release\BR300walkietalkie.csprojResolveAssemblyReference.cache
